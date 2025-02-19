@@ -3,6 +3,7 @@
 **Trabajo final de "Codo a Codo" Curso FullStack.**
 
 Latin Fusion Films es una plataforma de cartelera de películas que presenta una variada colección de filmes para todos los gustos. Este proyecto no implementa inicio de sesión al momento.
+Link: https://emiliano-nunez.github.io/Latin_Fusion_Films_CaC/
 
 ## Descripción del Proyecto
 
